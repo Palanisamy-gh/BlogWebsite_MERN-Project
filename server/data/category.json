@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Web Development",
+    "slug": "web_development",
+    "description": "Posts about web development, including frontend and backend"
+  },
+  {
+    "name": "FrontEnd Development",
+    "slug": "front_end_development",
+    "description": "Posts about frontend development, including html_css_javaScript & react_angular"
+  },
+  {
+    "name": "BackEnd Development",
+    "slug": "back_end_development",
+    "description": "Posts about backend development, including node_js,express_js and mongoDB_database"
+  }
+]
